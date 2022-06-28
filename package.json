@@ -1,0 +1,15 @@
+{
+  "name": "nodejs_development",
+  "version": "1.0.0",
+  "description": "I am a from ATT-2 Group.",
+  "main": "app.js",
+  "scripts": {
+    "test": "Keep on ",
+    "start": "node app.js"
+  },
+  "author": "Code Crash Aung",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
